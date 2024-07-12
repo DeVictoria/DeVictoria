@@ -1,6 +1,6 @@
 # Hello!
 
-### As a third-year student at ITMO University in Saint-Petersburg, Russia, I am a dedicated machine learning engineer with a strong proficiency in Python and I'm good at ML, C++, Java, Linux, Git, SQL and API. I'm interested in anything related to Artificial Intelligence, I strive to continuously expand my knowledge and skills in the field
+###  As a third-year student at ITMO University in Saint-Petersburg, Russia, I am machine learning engineer with a strong proficiency in Python and I'm good at ML, C++, Java, Linux, Git, SQL and API. I'm interested in anything related to Artificial Intelligence
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
